@@ -1,0 +1,21 @@
+to use this the next time you make a python script at the start of it write "from myimports import" and it will import most python modules
+
+
+
+
+
+
+
+
+
+
+
+/////:WARNING:\\\\\\
+
+1.every python module may not be imported such as thrid party ones
+
+
+2.if you dont write [from myimports import] at the start of any python script it wont work
+
+
+3.when sharing this with people give credit to my github and give them the link to my github
